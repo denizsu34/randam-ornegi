@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\bin\Debug\random örneği 1681.exe.config
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\bin\Debug\random örneği 1681.exe
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\bin\Debug\random örneği 1681.pdb
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\obj\Debug\random örneği 1681.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\obj\Debug\random örneği 1681.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\obj\Debug\random_örneği_1681.btnUret.resources
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\obj\Debug\random_örneği_1681.Properties.Resources.resources
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\obj\Debug\random örneği 1681.csproj.GenerateResource.cache
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\obj\Debug\random örneği 1681.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\obj\Debug\random örneği 1681.exe
+C:\Users\User\source\repos\random örneği 1681\random örneği 1681\obj\Debug\random örneği 1681.pdb
